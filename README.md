@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/alexclownfish/k8s-monitor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexclownfish&repo=k8s-monitor&theme=buefy" />
 </a>
-<a href="https://github.com/alexclownfish/jenkins_pipline">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexclownfish&repo=jenkins_pipline&theme=buefy" />
+<a href="https://github.com/alexclownfish/jenkins_pipeline">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexclownfish&repo=jenkins_pipeline&theme=buefy" />
 </a>
