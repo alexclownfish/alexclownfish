@@ -13,8 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Alexcld's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexclownfish&show_icons=true&theme=onedark&count_private=true&show_icons=true&bg_color=pink)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexclownfish&layout=compact)](https://github.com/alexclownfish)
+| <a href="https://github.com/alexclownfish/alexclownfish"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alexclownfish&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Alexcld's github stats" /></a> | <a href="https://github.com/alexclownfish/alexclownfish"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexclownfish&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 <a href="https://github.com/alexclownfish/k8s-monitor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexclownfish&repo=k8s-monitor" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexclownfish&repo=k8s-monitor&theme=buefy" />
+</a>
+<a href="https://github.com/alexclownfish/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexclownfish&repo=anuraghazra.github.io&theme=buefy" />
 </a>
