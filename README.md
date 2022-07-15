@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/alexclownfish/jenkins_pipeline">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexclownfish&repo=jenkins_pipeline&theme=buefy" />
 </a>
+<a href="https://github.com/alexclownfish/Scripts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexclownfish&repo=Scripts&theme=buefy" />
+</a>
