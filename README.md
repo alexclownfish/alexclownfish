@@ -29,3 +29,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/alexclownfish/gin-blog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexclownfish&repo=gin-blog&theme=buefy" />
 </a>
+<a href="https://github.com/alexclownfish/gin-blog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexclownfish&repo=ops-cli&theme=buefy" />
+</a>
